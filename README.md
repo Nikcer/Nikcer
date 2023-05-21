@@ -13,7 +13,7 @@ My name is Nicolò Cerra, i'm from Italy,  welcome to my Github profile!
 ### Contact me 📬
 - Github: [@Nikcer](https://github.com/Nikcer)
 - Linkedin: [@Nikcer](https://www.linkedin.com/in/nicol%C3%B2-cerra-492325231/)
-
+- Email: [Email me](mailto:nic.cerra@gmail.com)
 <!--
 **Nikcer/Nikcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
