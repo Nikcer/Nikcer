@@ -11,7 +11,6 @@ My name is Nicolò Cerra, i'm from Italy,  welcome to my Github profile!
 - Python
 - PostgreSQl
 ### Contact me 📬
-- Github: [@Nikcer](https://github.com/Nikcer)
 - Linkedin: [@Nikcer](https://www.linkedin.com/in/nicol%C3%B2-cerra-492325231/)
 - [Email me](mailto:nic.cerra@gmail.com)
 <!--
