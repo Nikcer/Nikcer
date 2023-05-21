@@ -1,4 +1,18 @@
-### Hi there 👋
+### Ciao 🖖
+My name is Nicolò Cerra, i'm from Italy,  welcome to my Github profile!
+
+### FE 💻
+- HTML5
+- CSS3
+- JavaScript
+### BE 📂
+- Node.js work in progress!
+### Other
+- Python
+- PostgreSQl
+### Contact me 📬
+- Github: [@Nikcer](https://github.com/Nikcer)
+- Linkedin: [@Nikcer](https://www.linkedin.com/in/nicol%C3%B2-cerra-492325231/)
 
 <!--
 **Nikcer/Nikcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
