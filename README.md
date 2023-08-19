@@ -5,6 +5,7 @@ My name is Nicolò Cerra, i'm from Italy,  welcome to my Github profile!
 - HTML5
 - CSS3
 - JavaScript
+- React
 ### BackEnd 📂
 - Node.js 
 ### Other
