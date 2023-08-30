@@ -7,11 +7,12 @@ My name is Nicolò Cerra, i'm from Italy,  welcome to my Github profile!
 - JavaScript
 - React
 ### BackEnd 📂
-- Node.js 
-### Other
-- Python
+- Node.js
 - PostgreSQl
 - MongoDb
+### Other
+- Python
+
 ### Contact me 📬
 - Linkedin: [@Nikcer](https://www.linkedin.com/in/nicol%C3%B2-cerra-492325231/)
 - [Email](mailto:nic.cerra@gmail.com)
