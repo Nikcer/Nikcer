@@ -8,7 +8,7 @@ My name is Nicolò Cerra, i'm from Italy,  welcome to my Github profile!
 - React
 ### BackEnd 📂
 - Node.js
-- PostgreSQl
+- PostgreSQL
 - MongoDb
 ### Other
 - Python
